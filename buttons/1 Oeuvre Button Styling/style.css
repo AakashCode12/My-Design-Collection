@@ -9,16 +9,25 @@ button {
   border: none;
   font-size: 14px;
   font-weight: 400;
-  color: white;
+  color: rgb(255, 38, 38);
   border-radius: 3px;
   border: black;
 
-  background-color: coral;
-
-  transition-duration: 0.3s;
+  background: linear-gradient(
+    to right,
+    #f8b3b5 0%,
+    #f8b3b5 50%,
+    #ffffff 50%,
+    #ffffff 100%
+  );
+  background-size: 200% 100%;
+  background-position: 100% 0;
+  transition: background-position 0.3s;
 }
 
 button:hover {
-  color: rgb(255, 255, 255);
-  background-color: #ff0e56;
+  color: rgb(0, 0, 0);
+  background-position: 0 0;
+  /*
+  background-color: #ff0e56;*/
 }
