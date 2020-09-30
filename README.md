@@ -12,4 +12,5 @@ This repository 🧾 will contain all the designs 😎 which I will make on my o
 
 ### Contributing Guide:
 
-You can contribute to this repository. Make a folder and add your HTML, CSS, etc files. Also name the folder and also add it to the Readme File of that particluar type.
+You can contribute to this repository. Make a folder and add your HTML, CSS, etc files. Name the folder 📂 and also add it to the Readme File of that particluar type. 
+* Eg: If I made a button design then I will make a folder in button and also link the folder in Read me along with Sceenshots of the design.
