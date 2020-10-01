@@ -1,0 +1,44 @@
+/*  navigation bar start*/
+#nav-bar {
+  position: sticky;
+  top: 0;
+  z-index: 10;
+}
+.navbar-brand img {
+  width: 200px;
+
+  height: auto;
+  padding-left: 30;
+}
+.navbar-nav li {
+  padding: 0 10px;
+}
+
+.navbar {
+  background: #aa4465;
+}
+.navbar-toggler {
+  background-color: #93e1d8;
+  border: none !important;
+}
+.button:active,
+button:active,
+.button:focus,
+button:focus,
+.button:hover,
+button:hover {
+  border: none !important;
+  outline: none !important; /*Code here is to remove black border around archives button on click*/
+}
+.btn:focus,
+.btn:active {
+  outline: none !important;
+  box-shadow: none !important;
+}
+nav-item {
+}
+.nav-link {
+  color: #ddfff7 !important;
+  font-weight: 600;
+  font-size: 19px;
+}
