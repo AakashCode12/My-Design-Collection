@@ -6,7 +6,7 @@
 
 <br>
 
-# [Explore My Designs by Clicking this](https://aakashcode12.github.io/My-Design-Collection/)
+# [Explore Designs](https://aakashcode12.github.io/My-Design-Collection/)
 
 <br>
 
