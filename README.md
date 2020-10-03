@@ -16,8 +16,6 @@ This repository 🧾 will contain all the designs 😎 which I will make on my o
 - [Navbars](https://aakashcode12.github.io/My-Design-Collection/Website%20Preview%20for%20buttons%20cards%20navbars%20etc/navbar.html)
 - [Color Combinations](https://aakashcode12.github.io/My-Design-Collection/Website%20Preview%20for%20buttons%20cards%20navbars%20etc/colorCombinations.html)
 
-
-
 ![](https://res.cloudinary.com/dnv3ztqf1/image/upload/v1601717056/Design%20Collection%20repo/a_rgpjpy.png)
 ### Contributing Guide:
 
