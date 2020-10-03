@@ -20,3 +20,5 @@ This repository 🧾 will contain all the designs 😎 which I will make on my o
 ### Contributing Guide:
 
 You can contribute to this repository. Make a folder and add your HTML, CSS, etc files. Name the folder 📂 Correctly.
+
+* If you want to add buttons, then make a folder in button.
