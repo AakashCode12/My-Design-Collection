@@ -12,12 +12,11 @@
 
 This repository 🧾 will contain all the designs 😎 which I will make on my own. This is to quickly apply the material designs✅, animations🎇, etc which I made. ❤ Its also beneficial for quickly check color combinations which are useful.
 
-
-* [Cards Groups](https://github.com/AakashCode12/My-Design-Collection/blob/master/Cards%20Group/cardsGroupReadme.md)
-* [Cards](https://github.com/AakashCode12/My-Design-Collection/blob/master/Cards/cardsReadme.md)
-* [Color Combinations](https://github.com/AakashCode12/My-Design-Collection/blob/master/Color%20Combinations/colorCombinationsReadme.md)
-* [Buttons](https://github.com/AakashCode12/My-Design-Collection/blob/master/buttons/ButtonsReadme.md)
-* [NavBars](https://github.com/AakashCode12/My-Design-Collection/blob/master/navbars/navbarReadme.md)
+* [Buttons](https://aakashcode12.github.io/My-Design-Collection/Website%20Preview%20for%20buttons%20cards%20navbars%20etc/buttons.html)
+* [Cards](https://aakashcode12.github.io/My-Design-Collection/Website%20Preview%20for%20buttons%20cards%20navbars%20etc/cards.html)
+* [Cards Groups](https://aakashcode12.github.io/My-Design-Collection/Website%20Preview%20for%20buttons%20cards%20navbars%20etc/cardsgroup.html)
+* [NavBars](https://aakashcode12.github.io/My-Design-Collection/Website%20Preview%20for%20buttons%20cards%20navbars%20etc/navbar.html)
+* [Color Combinations](https://aakashcode12.github.io/My-Design-Collection/Website%20Preview%20for%20buttons%20cards%20navbars%20etc/colorCombinations.html)
 
 
 ### Contributing Guide:
