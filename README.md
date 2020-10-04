@@ -1,5 +1,7 @@
 # My Design Collection
 
+![](https://img.shields.io/github/downloads/AakashCode12/My-Design-Collection/v1.0/total?color=pink&label=version%20downloads&logoColor=red) 
+
 ![](https://res.cloudinary.com/dnv3ztqf1/image/upload/v1601445971/Design%20Collection%20repo/Banner_for_Design_repo_u9dojk.png)
 
 <br>
