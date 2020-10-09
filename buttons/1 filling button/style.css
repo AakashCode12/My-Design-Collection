@@ -9,16 +9,16 @@ button {
   border: none;
   font-size: 14px;
   font-weight: 400;
-  color: rgb(255, 38, 38);
+  color: black;
   border-radius: 3px;
   border: black;
 
   background: linear-gradient(
     to right,
-    #f8b3b5 0%,
-    #f8b3b5 50%,
-    #ffffff 50%,
-    #ffffff 100%
+    #81adff 0%,
+    #81adff 50%,
+    #fff 50%,
+    #fff 100%
   );
   background-size: 200% 100%;
   background-position: 100% 0;
@@ -26,7 +26,7 @@ button {
 }
 
 button:hover {
-  color: rgb(0, 0, 0);
+  color: white;
   background-position: 0 0;
   /*
   background-color: #ff0e56;*/
