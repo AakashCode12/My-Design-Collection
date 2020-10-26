@@ -24,3 +24,5 @@ This repository 🧾 will contain all the designs 😎. This is to quickly apply
 You can contribute to this repository. Make a folder and add your HTML, CSS, etc files. Name the folder 📂 Correctly.
 
 * If you want to add buttons, then make a folder in button.
+
+### DEsign Collections for Future USE
