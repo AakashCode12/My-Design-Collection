@@ -24,4 +24,4 @@ You can contribute to this repository. Make a folder and add your HTML, CSS, etc
 
 * If you want to add buttons, then make a folder in button.
 
-### DEsign Collections for Future USE
+### Design Collections for Future USE
